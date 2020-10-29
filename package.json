@@ -1,5 +1,5 @@
 {
-  "name": "react-tutorial",
+  "name": "things-react-tutorial",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://palbcn.github.io/things-react-tutorial",
@@ -39,10 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
   "repository": {
-  "type" : "git",
+    "type" : "git",
   "url" : "https://github.com/palbcn/things-react-tutorial.git"
-}
-  
+}  
 }
