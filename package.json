@@ -40,4 +40,9 @@
       "last 1 safari version"
     ]
   }
+  "repository": {
+  "type" : "git",
+  "url" : "https://github.com/palbcn/things-react-tutorial.git"
+}
+  
 }
